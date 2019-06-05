@@ -26,7 +26,14 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Simple Todo api to understand NestJs and also adhere to CLEAN architecture. [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+
+## Goal
+- [ ] understand nestjs
+- [ ] follow CLEAN architecture
+- [ ] production and development env
+- [ ] with Docker
+
 
 ## Installation
 
