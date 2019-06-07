@@ -30,7 +30,7 @@ Simple Todo api to understand NestJs and also adhere to CLEAN architecture. [Nes
 
 ## Goal
 - [ ] understand nestjs
-- [ ] follow SOLID principle
+- [ ] follow CLEAN
 - [ ] production and development env
 - [ ] with Docker
 
